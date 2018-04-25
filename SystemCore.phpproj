@@ -22,6 +22,7 @@
     <Compile Include="handler\extendedObject.php" />
     <Compile Include="handler\helper.php" />
     <Compile Include="handler\http.php" />
+    <Compile Include="handler\ParamParser.php" />
     <Compile Include="handler\sessionHandler.php" />
     <Compile Include="bm_engine.php" />
   </ItemGroup>
